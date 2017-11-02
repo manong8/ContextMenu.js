@@ -1,6 +1,7 @@
 # ContextMenu.js
 JavaScript right click context menu (not support IE)
 
+<pre>
 <div id="div1" style="width:800px;height:600px;border:1px solid #ccc;">
 	right click this area to show ContextMenu.
 </div>
@@ -13,3 +14,4 @@ JavaScript right click context menu (not support IE)
 
 <script src="ContextMenu.js"></script>
 <script> var menu=new ContextMenu(); </script>
+</pre>
